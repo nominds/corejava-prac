@@ -2,7 +2,7 @@ package com.java.core.generics;
 
 import java.time.*;
 
-public class pair2 {
+public class Pair2Test {
 
 	public static void main(String[] args) {
 
